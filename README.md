@@ -16,5 +16,4 @@
   - <code>npm run dev</code> to start development server
   - Backend will start on <a href="http://localhost:/">link</a>
   
-  ## Website deployed at:
-  https://it-314-project-g15.vercel.app/
+
